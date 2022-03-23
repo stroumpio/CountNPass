@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/ioannis/AndroidStudioProjects/CountNPass/app"
+    name=":app"
+    type="APP"
+    maven="Count N Pass:app:"
+    gradle="7.0.2"
+    buildFolder="build"
+    bootClassPath="/home/ioannis/Android/Sdk/platforms/android-31/android.jar:/home/ioannis/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

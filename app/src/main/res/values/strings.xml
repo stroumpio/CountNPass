@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Count \'N\' Pass</string>
+    <string name="experiment">Experiment</string>
+    <string name="participant_number">Participant Number</string>
+    <string name="start_task_optional">Start Task (optional)</string>
+    <string name="start_block_optional">Start Block (optional)</string>
+    <string name="start_experiment">START EXPERIMENT</string>
+    <string name="share_log_file">SHARE LOG FILE</string>
+    <string name="experiment_complete">Experiment Complete!</string>
+</resources>

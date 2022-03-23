@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/layout_activity_task.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/layout/activity_task.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/layout_activity_main.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/xml_filepaths.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ioannis/AndroidStudioProjects/CountNPass/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ioannis/AndroidStudioProjects/CountNPass/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

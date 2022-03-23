@@ -1,0 +1,16 @@
+com/example/countnpass/BuildConfig.java
+ com.example.countnpass.BuildConfig
+com/example/countnpass/TaskResultContract.java
+ com.example.countnpass.TaskResultContract
+com/example/countnpass/HapticManager.java
+ com.example.countnpass.HapticManager
+com/example/countnpass/TaskActivity.java
+ com.example.countnpass.TaskActivity
+com/example/countnpass/Experiment.java
+ com.example.countnpass.Experiment
+com/example/countnpass/MainActivity.java
+ com.example.countnpass.MainActivity
+com/example/countnpass/CountNPassGestureCallBack.java
+ com.example.countnpass.CountNPassGestureCallBack
+com/example/countnpass/CountNPassGestureDetector.java
+ com.example.countnpass.CountNPassGestureDetector
