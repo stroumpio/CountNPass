@@ -7,8 +7,8 @@ interaction. Users enter and obfuscate their credentials through a vibrotactile 
 achieving resistance to shoulder surfing attacks.
 
 Two experiments were conducted:
-1. A usability experiment showing that a novice user could authenticate with 89% success rate. 
-2. A security experiment proving the system’s resistance to observation attacks even in clear screen view.
+1. A usability experiment 
+2. A security experiment
 
 The current form of the project refers to the **usability experiment**
 
