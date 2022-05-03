@@ -21,8 +21,4 @@ You can run the system on your android device by downloading the release version
 ## How to use
 You can find [here](https://drive.google.com/file/d/1GyE3ifnrIAvMxPNkM9AW6tLk4dkZaz-J/view?usp=sharing) the Information Sheet that was given to the participants of the usability experiment.
 
-<br>
-Cheers!
-
-
 
